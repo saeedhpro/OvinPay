@@ -1,0 +1,17 @@
+{
+    "name": "ovintech/ovin-pay",
+    "description": "Simple laravel payment package , supports multiple drivers",
+    "license": "GPL v3",
+    "autoload": {
+        "psr-4": {
+            "OvinTech\\OvinPay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saeed Heydari",
+            "email": "saeedhpro@gmail.com"
+        }
+    ],
+    "require": {}
+}
